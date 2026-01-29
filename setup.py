@@ -1,10 +1,9 @@
 from setuptools import setup
-
 setup(
-    name="calculator-project",
+    name="library-management-system",
     version="1.0.0",
-    author="Your Name",
-    description="Calculator with build automation",
+    author="University Student",
+    description="LMS with automated build and UML design",
     install_requires=["numpy", "pandas", "matplotlib"],
     python_requires=">=3.8",
 )
