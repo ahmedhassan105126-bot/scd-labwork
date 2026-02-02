@@ -1,0 +1,4 @@
+2026-01-28 17:34:57,800 - INFO - Successful Operation: 50 / 5 = 10.0
+2026-01-28 17:34:57,800 - ERROR - ValueError Detected: could not convert string to float: 'abc'
+2026-01-28 17:34:57,801 - ERROR - ZeroDivisionError Detected: Math error: Division by zero is not allowed.
+2026-01-28 17:34:57,802 - WARNING - KeyError Detected: "The operator '%' is not supported in this build."
